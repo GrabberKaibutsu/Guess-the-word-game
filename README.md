@@ -25,7 +25,7 @@ Visit the link
 #
 
 <details>
-  <summary>Example</summary>
+  <summary>Answers</summary>
 
   ```
   deer, javascript, coding, mammals, case, county,  birthday, credit, strange, project,
