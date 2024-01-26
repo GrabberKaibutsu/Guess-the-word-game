@@ -2,29 +2,29 @@
 
 A "hangman type" game where you try to guess a word one letter at a time
 
-## Technologies Used
-#
+# Technologies Used
+
 
 CSS, HTML, Javascript
 
 <br>
 
-## Installation Instructions 
-#
+# Installation Instructions 
+
 
 Visit the link 
 
 <br>
 
-## Wireframes 
-#
+# Wireframes 
+
 
 [Click here](https://media.git.generalassemb.ly/user/51620/files/f5dfe6d2-0fe9-44a3-9bca-0a7bc1b0be75) to view wireframes
 
 <br>
 
-## Cheatsheet
-#
+# Cheatsheet
+
 
 <details>
   <summary>Answers</summary>
