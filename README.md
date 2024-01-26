@@ -5,7 +5,7 @@ A "hangman type" game where you try to guess a word one letter at a time
 ## Technologies Used
 
 
-CSS, HTML, Javascript
+CSS, HTML, Javascript, Git Bash, Visual Studio Code
 
 <br>
 
