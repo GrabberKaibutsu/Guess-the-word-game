@@ -1,6 +1,6 @@
 const words = ['deer', 'javascript', 'coding', 'mammals', 'case', 'birthday', 'credit', 'strange', 'project',
 'sentence', 'else', 'winter', 'vital', 'butterfly', 'horror', 'mandela', 'county', 'skies', 'clear', 'movie', 
-'alternate'];
+'alternate', 'style', 'index', 'waffle', 'lemon', 'apple', 'pear', 'pair', 'meter', 'basket', 'studio', 'audio'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 let guessedWord = Array(selectedWord.length).fill('_');
 let attemptsLeft = 7;

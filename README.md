@@ -32,7 +32,7 @@ Play the game [Here](https://grabberkaibutsu.github.io/Guess-the-word-game/)
   ```
   deer, javascript, coding, mammals, case, county,  birthday, credit, strange, project,
 sentence, else, winter, vital, butterfly, horror, mandela, skies, clear, movie, 
-alternate.
+alternate, style, index, waffle, lemon, apple, pear, pair, meter, basket, studio, audio.
   ```
 </details>
 
