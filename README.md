@@ -12,7 +12,7 @@ CSS, HTML, Javascript
 ## Installation Instructions 
 
 
-Visit the link 
+Play the game [Here](https://grabberkaibutsu.github.io/Guess-the-word-game/)
 
 <br>
 
