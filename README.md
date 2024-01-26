@@ -24,8 +24,14 @@ Visit the link
 ## Cheatsheet
 #
 
-deer, javascript, coding, mammals, case, county,  birthday, credit, strange, project,
+<details>
+  <summary>Example</summary>
+
+  ```
+  deer, javascript, coding, mammals, case, county,  birthday, credit, strange, project,
 sentence, else, winter, vital, butterfly, horror, mandela, skies, clear, movie, 
 alternate.
+  ```
+</details>
 
 <br>
