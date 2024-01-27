@@ -53,41 +53,48 @@ h1{
 
 @media (max-width: 600px){
 
-#Game-container {
-    padding-top: 100px;
-    display: flex;
-    flex-direction: column; 
-    align-items: center;
-}
-
-    #Game-container {
-        margin-top: 10px;
+    body {
+        font-family: 'times new roman', sans-serif;
+        text-align: center;
+        margin: 0;
+        padding: 0;
     }
-
+    
+    #hangman-container {
+        max-width: 400px;
+        margin: 50px auto;
+        padding: 20px;
+    }
+    
     #word-display {
-        font-size: 1.2em;
-        margin-bottom: 5px;
+        font-size: 24px;
+        margin: 20px 0;
     }
-
+    
     #attempts-left {
-        font-size: 1em;
+        font-size: 16px;
+        margin-bottom: 20px;
     }
-
+    
     #guess-input {
-        margin-top: 10px;
+        margin-top: 20px;
     }
-
-    label {
-        font-size: 1em;
+    
+    #guess {
+        width: 30px;
+        text-align: center;
     }
-
-    input {
-        font-size: 1em;
-        padding: 3px;
-    }
-
+    
     button {
-        font-size: 1em;
-        padding: 3px 8px;
+        padding: 5px 10px;
+        cursor: pointer;
+        background-color: blue;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
     }
-}
+    
+    button:hover {
+        background-color: blue;
+    }
