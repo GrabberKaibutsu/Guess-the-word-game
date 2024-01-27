@@ -12,7 +12,7 @@ CSS, HTML, Javascript, Git Bash, Visual Studio Code
 ## Installation Instructions 
 
 
-Play the game [Here](https://grabberkaibutsu.github.io/Guess-the-word-game/) Works on both mobile and computer.
+Play the game [Here.](https://grabberkaibutsu.github.io/Guess-the-word-game/) Works on both mobile and computer.
 
 <br>
 
