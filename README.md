@@ -1,11 +1,15 @@
 # Guess the word game
 
-A "hangman type" game where you try to guess a word one letter at a time.
+A "hangman type" game where you try to guess a word one letter at a time. You have 7 attempt to guess the letters, when you guess a correct letter you do not lose an attempt.
 
 ## Technologies Used
 
 
-CSS, HTML, Javascript, Git Bash, Visual Studio Code.
+1. CSS 
+2. HTML 
+3. Javascript 
+4. Git Bash 
+5. Visual Studio Code.
 
 <br>
 
