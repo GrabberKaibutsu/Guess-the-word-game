@@ -5,7 +5,7 @@ A "hangman type" game where you try to guess a word one letter at a time
 ## Technologies Used
 
 
-CSS, HTML, Javascript, Git Bash, Visual Studio Code
+CSS, HTML, Javascript, Git Bash, Visual Studio Code.
 
 <br>
 
@@ -19,7 +19,7 @@ Play the game [Here.](https://grabberkaibutsu.github.io/Guess-the-word-game/) Wo
 ## Wireframes 
 
 
-[Click here](https://media.git.generalassemb.ly/user/51620/files/f5dfe6d2-0fe9-44a3-9bca-0a7bc1b0be75) to view wireframes
+[Click here](https://media.git.generalassemb.ly/user/51620/files/f5dfe6d2-0fe9-44a3-9bca-0a7bc1b0be75) to view wireframes.
 
 <br>
 
