@@ -1,4 +1,4 @@
-# Guess-the-word-game
+# Guess the word game
 
 A "hangman type" game where you try to guess a word one letter at a time.
 
