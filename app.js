@@ -31,7 +31,11 @@ function makeGuess() {
     guessInput.value = '';
 }
 function endGame(isLose) {
-    alert(isLose ? 'Game over, You lose.' : 'Congratulations! You guessed the word!');
+    if (isLose) {
+        alert(`Game over, You lose. The word was: ${selectedWord}`);
+    } else {
+        alert('Congratulations! You guessed the word!');
+    }
     resetGame();
 }
 function resetGame() {
