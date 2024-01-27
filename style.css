@@ -51,7 +51,15 @@ h1{
     padding-right: 120px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 600px){
+
+#Game-container {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+
     #Game-container {
         margin-top: 10px;
     }
