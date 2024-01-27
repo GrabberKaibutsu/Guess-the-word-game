@@ -50,3 +50,36 @@ h1{
     justify-content: space-around;
     padding-right: 120px;
 }
+
+@media (max-width: 600px) {
+    #Game-container {
+        margin-top: 10px;
+    }
+
+    #word-display {
+        font-size: 1.2em;
+        margin-bottom: 5px;
+    }
+
+    #attempts-left {
+        font-size: 1em;
+    }
+
+    #guess-input {
+        margin-top: 10px;
+    }
+
+    label {
+        font-size: 1em;
+    }
+
+    input {
+        font-size: 1em;
+        padding: 3px;
+    }
+
+    button {
+        font-size: 1em;
+        padding: 3px 8px;
+    }
+}
